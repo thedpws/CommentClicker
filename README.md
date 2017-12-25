@@ -17,4 +17,4 @@ The UI is pretty ugly and could use some work.
   The main button could be better
 
 This is how it looks right now (if it runs):
-![alt text](https://raw.githubusercontent.com/username/commentclicker/resources/v1.png)
+![alt text](https://github.com/thedpws/CommentClicker/blob/master/resources/v1.png)
