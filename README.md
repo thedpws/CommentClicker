@@ -1,6 +1,6 @@
 # CommentClicker
 this is a ripoff of cookie clicker lol.
-This is written using JAVA 9 and the UI in Javafx and fxml.
+This is written using JAVA 9 and the UI in Javafx and fxml. This is an IntelliJ IDEA project.
 
 My Java version:
   java version "9.0.1"
